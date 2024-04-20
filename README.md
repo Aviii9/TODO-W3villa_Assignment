@@ -2,6 +2,8 @@
 
 This project is a simple To-do website built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
+Deployed Link - https://server-o8b3.onrender.com/
+
 ## Installation:
 
 1. Clone the repository:
